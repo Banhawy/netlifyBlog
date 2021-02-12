@@ -17,8 +17,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Gridsomejaime',
-  siteDescription: 'A simple Blog theme for Gridsome',
+  siteName: 'Banhawy',
+  siteDescription: 'A personal blog for Adham El Banhawy',
   templates: {
     Post: '/:title',
     Tag: '/tag/:id',
