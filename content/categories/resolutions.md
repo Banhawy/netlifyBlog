@@ -1,0 +1,4 @@
+---
+id: resolutions
+title: resolutions
+---
